@@ -15,6 +15,10 @@ Languages: R, Python
 ## Education  
 Bachelor of Science in Political Science, Northern Illinois University
 
+### Relevant Coursework  
+Econometrics
+Computational Methods in Statistics 
+
 ## Work Experience  
 - News Editor, Northern Star (Jan 2025 - May 2025)
 - Data Science Intern, Haroon Atcha for COD Board (December 2022 - May 2023)
