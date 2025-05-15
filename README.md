@@ -1,6 +1,6 @@
 ## Hi there 👋
 ---
-# Aspiring Data Scientist 
+# Data Scientist 
 ---
 📍 Chicago  
   Email: Devin.oommen@gmail.com  
