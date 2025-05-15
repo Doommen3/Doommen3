@@ -1,21 +1,21 @@
 ## Hi there 👋
 ---
-Aspiring Data Scientist 
+# Aspiring Data Scientist 
 ---
 📍 Chicago  
   Email: Devin.oommen@gmail.com  
   Linkedin: https://www.linkedin.com/in/devinoommen/
 
-About Me  
+# About Me  
 Political Science graduate, creating data-driven analysis. 
 
 Languages: R, Python
 
 
-Education  
+## Education  
 Bachelor of Science in Political Science, Northern Illinois University
 
-Work Experience  
+## Work Experience  
 - News Editor, Northern Star (Jan 2025 - May 2025)
 - Data Science Intern, Haroon Atcha for COD Board (December 2022 - May 2023)
 - Software Consultant - Unify One Solutions (June 2019 - May 2020) 
