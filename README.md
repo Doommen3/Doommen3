@@ -16,8 +16,8 @@ Languages: R, Python
 Bachelor of Science in Political Science, Northern Illinois University
 
 ### Relevant Coursework  
-Econometrics  
-Computational Methods in Statistics 
+- Econometrics  
+-  Computational Methods in Statistics 
 
 ## Work Experience  
 - News Editor, Northern Star (Jan 2025 - May 2025)
