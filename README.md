@@ -17,7 +17,7 @@ Bachelor of Science in Political Science, Northern Illinois University
 
 ### Relevant Coursework  
 - Econometrics  
--  Computational Methods in Statistics 
+-  Computational Methods for Statistics 
 
 ## Work Experience  
 - News Editor, Northern Star (Jan 2025 - May 2025)
